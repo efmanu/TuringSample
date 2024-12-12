@@ -1,4 +1,6 @@
+
 using Turing, StatsPlots, Random
+
 
 # Set seed for reproducibility
 Random.seed!(42)
